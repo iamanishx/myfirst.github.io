@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+div{
+    margin-right: 50px;
+    
+
+text-align: right ;
+ color: white;
+}
+a{
+    margin-right: 50px;
+    color: white;
+    text-decoration: none;
+    
+
+}
+header{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+h3{
+    color: whitesmoke;
+    
+     margin-left: 1000px;
+    
+}
+footer{
+    color: blueviolet;
+    text-align: center;
+}
+
+
